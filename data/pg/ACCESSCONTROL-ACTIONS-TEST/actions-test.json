@@ -5669,7 +5669,7 @@
          "serviceCode": "",
          "code": "",
          "path": "",
-         "navigationURL": "/employee/inbox",
+         "navigationURL": "/inbox",
          "leftIcon": "action:store",
          "rightIcon": "",
          "queryParams": ""

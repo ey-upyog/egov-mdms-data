@@ -15818,7 +15818,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "STADMIN",
+      "rolecode": "WS_DOC_VERIFIER",
       "actionid": 2010,
       "actioncode": "",
       "tenantId": "pg"

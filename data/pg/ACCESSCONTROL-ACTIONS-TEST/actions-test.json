@@ -6907,7 +6907,7 @@
          "serviceCode": "wns",
          "code": "",
          "path": "",
-         "navigationURL": "/digit-ui/employee/ws/inbox",
+         "navigationURL": "/digit-ui/employee/ws/water/inbox",
          "leftIcon": "custom:water-tap",
          "quickAction": true,
          "rightIcon": "",
@@ -6954,7 +6954,7 @@
          "enabled": true,
          "serviceCode": "wns",
          "code": "null",
-         "navigationURL": "/digit-ui/employee/ws/inbox",
+         "navigationURL": "/digit-ui/employee/ws/water/inbox",
          "path": "wns",
          "leftIcon": "custom:water-tap",
          "rightIcon": ""

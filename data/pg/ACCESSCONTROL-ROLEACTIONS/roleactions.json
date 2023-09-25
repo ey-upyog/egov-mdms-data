@@ -5109,36 +5109,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 908,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 909,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 910,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 911,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 912,
-      "actioncode": "",
-      "tenantId": "pg"
-    },	  
-    {
       "rolecode": "CITIZEN",
       "actionid": 748,
       "actioncode": "",
@@ -9224,12 +9194,6 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 1631,
-      "actioncode": "",
-      "tenantId": "pg"
-    },	  
     {
       "rolecode": "SUPERUSER",
       "actionid": 1632,
@@ -13430,12 +13394,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "WS_CEMP",
-      "actionid": 2523,
-      "actioncode": "",
-      "tenantId": "pg"
-    },	  
-    {
       "rolecode": "SW_CEMP",
       "actionid": 1882,
       "actioncode": "",
@@ -13465,12 +13423,6 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 2523,
-      "actioncode": "",
-      "tenantId": "pg"
-    },	  
     {
       "rolecode": "CITIZEN",
       "actionid": 1883,
@@ -15818,7 +15770,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "WS_DOC_VERIFIER",
+      "rolecode": "STADMIN",
       "actionid": 2010,
       "actioncode": "",
       "tenantId": "pg"
@@ -26225,36 +26177,6 @@
    {
       "rolecode": "CITIZEN",
       "actionid": 2070,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-	{
-      "rolecode": "NATADMIN",
-      "actionid": 2521,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-	{
-      "rolecode": "NATADMIN",
-      "actionid": 2522,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 2345,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_CEMP",
-      "actionid": 2345,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PT_CEMP",
-      "actionid": 2345,
       "actioncode": "",
       "tenantId": "pg"
     }
